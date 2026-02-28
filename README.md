@@ -1,2 +1,2 @@
-# Curso-de-Java-
+# Curso-de-Java
 Repositório de aprendizado em Java
